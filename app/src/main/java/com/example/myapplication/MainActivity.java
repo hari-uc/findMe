@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     EditText Edt_email,Edt_password;
     Intent mapintent, newuserintent;
     TextView textView;
-
+    private static final int REQUEST_CODE = 101;
 
 
     @Override
